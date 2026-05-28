@@ -14,7 +14,7 @@
 
 ---
 
-2 years engineering production AI systems at a pan-African development finance institution. I work across the full GenAI stack — from hybrid retrieval architecture and stateful LangGraph agents to QLoRA fine-tuning and LLM-as-judge evaluation pipelines. Every system I've shipped runs in a regulated banking environment where retrieval accuracy and grounding aren't optional.
+2 years engineering production AI systems at a pan-African development finance institution. I work across the full GenAI stack from hybrid retrieval architecture and stateful LangGraph agents to QLoRA fine-tuning and LLM-as-judge evaluation pipelines. Every system I've shipped runs in a regulated banking environment where retrieval accuracy and grounding aren't optional.
 
 ---
 
