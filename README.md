@@ -22,7 +22,7 @@
 
 | System | What it does | Key result |
 |--------|-------------|------------|
-| **Agentic RAG — Document Intelligence** | Hybrid pgvector + BM25 retrieval, stateful LangGraph agents, VLM-based PDF ingestion over 200+ page financial contracts | 80%+ retrieval accuracy · ~40% debug time reduction |
+| **Agentic RAG Document Intelligence** | Hybrid pgvector + BM25 retrieval, stateful LangGraph agents, VLM-based PDF ingestion over 200+ page financial contracts | 80%+ retrieval accuracy · ~40% debug time reduction |
 | **Financial Document Extraction** | Layout-aware chunking via Docling, 5 async prompt templates per clause category, Kafka-parallelized across contract corpora | 35% accuracy gain over OCR baseline · 40% compliance review time saved |
 | **LLM Fine-tuning Pipeline** | QLoRA/PEFT fine-tuning of Llama 3 & Mistral 7B on 100K+ domain samples, 8-class intent router | ~90% NL-to-SQL accuracy · ~30% financial terminology gain · −45% misdirected queries |
 | **Intelligent Client360 Agent** | MCP protocol connecting LLM to CRM, DWH, and loan databases via AWS Bedrock for real-time client analytics | ~60% reduction in analyst report prep time |
