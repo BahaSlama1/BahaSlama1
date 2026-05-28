@@ -4,7 +4,7 @@
 
 ### AI / GenAI Engineer
 
-*Building production agentic AI systems for financial services*
+*Building production agentic AI systems*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/baha-slama1)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:slama.bahaeddine@outlook.com)
