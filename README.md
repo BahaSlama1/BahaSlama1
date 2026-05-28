@@ -73,16 +73,4 @@ Languages                Python · SQL
 | [LLM-Finetuning-Pipeline](https://github.com/BahaSlama1/LLM-Finetuning-Pipeline) | QLoRA training walkthrough · Benchmark results · Config-driven pipeline · Model comparison |
 | [Financial-Document-Extraction](https://github.com/BahaSlama1/Financial-Document-Extraction) | Async Kafka architecture · Prompt template design · Docling + Textract pipeline |
 
----
 
-## Currently focused on
-
-- AWS Solutions Architect Associate (SAA-C03) — formalizing infrastructure knowledge behind production systems
-- Building a public code project: Graph RAG on open financial data (Neo4j + LangGraph)
-- Writing about hybrid retrieval architecture decisions from production banking AI
-
----
-
-<div align="center">
-<sub>Open to senior AI/GenAI engineering roles · EU · UK · Gulf · Remote</sub>
-</div>
