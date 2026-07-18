@@ -63,14 +63,4 @@ Languages                Python · SQL
 
 ---
 
-## Repositories
-
-> Production source code is proprietary. These repos document the architecture, design decisions, and evaluation methodology of systems I built — including sequence diagrams, ADRs, retrieval ablations, and failure mode analysis.
-
-| Repo | What's inside |
-|------|--------------|
-| [Agentic-RAG-Document-Intelligence](https://github.com/BahaSlama1/Agentic-RAG-Document-Intelligence) | System architecture · LangGraph agent design · Hybrid retrieval implementation · LLM-as-judge eval pipeline · 5 ADRs |
-| [LLM-Finetuning-Pipeline](https://github.com/BahaSlama1/LLM-Finetuning-Pipeline) | QLoRA training walkthrough · Benchmark results · Config-driven pipeline · Model comparison |
-| [Financial-Document-Extraction](https://github.com/BahaSlama1/Financial-Document-Extraction) | Async Kafka architecture · Prompt template design · Docling + Textract pipeline |
-
 
